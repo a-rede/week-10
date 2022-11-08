@@ -18,9 +18,9 @@
 //     i += 1
 // }
 
-let input = "";
-do {
-    input = prompt("What is your name: ")
-} while (!isNaN(Number(input)));
+// let input = "";
+// do {
+//     input = prompt("What is your name: ")
+// } while (!isNaN(Number(input)));
 
-alert(`Hello ${input}!`);
+// alert(`Hello ${input}!`);
